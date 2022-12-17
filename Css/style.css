@@ -1,0 +1,16 @@
+.main-section{
+    display: flex;
+}
+
+.sidebar{
+   min-width: 10%;;
+    min-height: 100vh;
+    background-color: orange;
+  padding: 32px 0;
+}
+
+.event-btn-v {
+    display: flex;
+    flex-direction: column;
+    
+}
